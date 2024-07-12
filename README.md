@@ -1,3 +1,3 @@
 # DetectionProjects
 
-Repo contains research on known tactics abused by threat actors + other areas further researched by me(this could be CVEs, niche attacks etc etc.). The goal is to provide proofs of concept of the attacks to further understand the subject matter and provide detection recommendations (+ hardening recs) in a multitude of siem languages that I have experience in.
+This repository contains research on known tactics exploited by threat actors, as well as additional areas researched by yours truly, such as CVEs and niche attack methodologies. The objective is to provide proof-of-concept demonstrations of these attacks to enhance understanding of the subject matter. Additionally, the repository includes detection recommendations and hardening guidelines across various SIEM languages with which I am somewhat proficient in.
