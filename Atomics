@@ -1,3 +1,3 @@
 T1003.001 | Atomic name: OS Credential Dumping: LSASS Memory
 Description: The memory of lsass.exe is often dumped for offline credential theft attacks.
-This can be done in a couple of different ways, some common methods are the usage of procdump & CrackmapExec which were used below. 
+This can be done in a couple of different ways, some common methods are the usage of procdump & CrackmapExec (TBD on completion, working on home lab setup) 
